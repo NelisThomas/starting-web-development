@@ -4,6 +4,8 @@ body {
     color: #7C7D7F;
 }
 
+
+
 .tim{
     color:#EC3A4B;
     font-weight: bold;
@@ -11,6 +13,7 @@ body {
     font-size: 30px;
     margin: 10px;
 }
+
 
 .smallhead{
     text-align: center;
@@ -73,7 +76,7 @@ input{
 
 .container{
     background-color: #FFFFFF   ;
-    width: 500px;
+    width: 550px;
     padding: 15px;
     margin-bottom: 20px;
 }
